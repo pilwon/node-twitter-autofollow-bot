@@ -1,4 +1,4 @@
-# node-twitter-autofollow-bot
+# twitter-autofollow-bot
 
 Twitter auto-follow bot written in Node.js.
 
@@ -24,4 +24,4 @@ twitterAutofollowBot.run({
 
 ## License
 
-  `node-twitter-autofollow-bot` is released under the MIT License.
+  `twitter-autofollow-bot` is released under the MIT License.
