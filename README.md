@@ -11,8 +11,8 @@ Twitter auto-follow bot written in Node.js.
 ```js
 var twitterAutofollowBot = require('twitter-autofollow-bot');
 
-// twitterAutofollowBot.FETCH_INTERVAL = 30000;  // (default: 30 seconds)
-// twitterAutofollowBot.RETRY_INTERVAL = 1000;   // (default: 1 minute)
+// twitterAutofollowBot.FETCH_INTERVAL = 60000;  // (default: 1 minute)
+// twitterAutofollowBot.RETRY_INTERVAL = 1000;   // (default: 1 second)
 
 twitterAutofollowBot.run({
   accessToken: TWITTER_ACCESS_TOKEN,
