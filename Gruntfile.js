@@ -1,0 +1,27 @@
+/*
+ * Gruntfile.js
+ */
+
+'use strict';
+
+module.exports = function (grunt) {
+  // load all grunt tasks
+  require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
+
+  // Project configuration.
+  grunt.initConfig({
+    jshint: {  // grunt-contrib-jshint
+      options: {
+        jshintrc: '.jshintrc'
+      },
+      all: [
+        '**/*.js',
+        '!node_modules/**/*'
+      ]
+    }
+  });
+
+  grunt.registerTask('default', [
+    'jshint'
+  ]);
+};

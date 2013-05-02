@@ -1,0 +1,35 @@
+{
+  "name": "twitter-autofollow-bot",
+  "description": "Twitter auto-follow bot written in Node.js",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Pilwon Huh",
+    "email": "pilwon@gmail.com"
+  },
+  "homepage": "https://github.com/pilwon/node-twitter-autofollow-bot",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pilwon/node-twitter-autofollow-bot.git"
+  },
+  "keywords": [
+    "auto",
+    "bot",
+    "follow",
+    "follower",
+    "twit",
+    "tweet",
+    "twitter"
+  ],
+  "dependencies": {
+    "async": "~0.2.8",
+    "lodash": "~1.2.1",
+    "log4js": "~0.6.3",
+    "twit": "~1.1.6"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.3.0",
+    "matchdep": "~0.1.2"
+  }
+}
