@@ -1,6 +1,6 @@
 # twitter-autofollow-bot
 
-Twitter auto-follow bot written in Node.js.
+Twitter auto-follow bot written in [Node.js](http://nodejs.org/).
 
 ## Installation
 
