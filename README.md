@@ -24,4 +24,4 @@ twitterAutofollowBot.run({
 
 ## License
 
-  `twitter-autofollow-bot` is released under the MIT License.
+  `twitter-autofollow-bot` is released under the [MIT License](http://opensource.org/licenses/MIT).
