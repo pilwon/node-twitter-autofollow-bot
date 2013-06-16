@@ -1,7 +1,7 @@
 {
   "name": "twitter-autofollow-bot",
   "description": "Twitter auto-follow bot written in Node.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "author": {
     "name": "Pilwon Huh",
