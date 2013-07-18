@@ -1,5 +1,7 @@
 # twitter-autofollow-bot
 
+[![NPM](https://nodei.co/npm/twitter-autofollow-bot.png?downloads=false&stars=false)](https://npmjs.org/package/twitter-autofollow-bot) [![NPM](https://nodei.co/npm-dl/twitter-autofollow-bot.png?months=6)](https://npmjs.org/package/twitter-autofollow-bot)
+
 Twitter auto-follow bot written in [Node.js](http://nodejs.org/).
 
 ## Installation
